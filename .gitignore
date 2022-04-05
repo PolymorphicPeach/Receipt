@@ -1,5 +1,5 @@
 *.log
-.Debug/*
+Debug/
 Chapter7Version2.mk
 Chapter7Version2.project
 Chapter7Version2.txt
