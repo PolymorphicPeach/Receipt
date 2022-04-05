@@ -1,0 +1,6 @@
+*.log
+.Debug/*
+Chapter7Version2.mk
+Chapter7Version2.project
+Chapter7Version2.txt
+compile_flags.txt
